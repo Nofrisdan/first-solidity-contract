@@ -9,7 +9,7 @@ npx hardhat node
 ### Deploy
 
 ```
-npx hardhat ignition deploy ignition/modules/FirstContractModule.js --network localhost
+npx hardhat ignition deploy ignition/modules/FirstContract.js --network localhost
 
 ```
 
